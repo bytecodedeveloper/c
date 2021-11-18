@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("hello world \n");
+    printf("Welcome to Pointers... \n");
     return 0;
 }
